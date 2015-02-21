@@ -1,3 +1,7 @@
 <link rel="import" ng-href="{{base_url}}/assets/github-card.html">
 
+<div ng-if="settings.user">
+	{{settings.user}}
+</div>
+
 <github-card ng-if="settings.user" user="{{settings.user}}"></github-card>
