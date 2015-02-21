@@ -1,13 +1,13 @@
 {
   "name": {
-    "de": "Diktat",
-    "en": "Dictate"
+    "de": "Github-Karte",
+    "en": "github-card"
   },
-  "slug": "youtube-video",
-  "version": "x.y.z",
+  "slug": "github-card",
+  "version": "0.0.1",
   "description": {
-    "de": "Einfaches Diktat-Modul",
-    "en": "Simple Dictate Module"
+    "de": "Einfaches Modul für die Anzeige einer Github-Karte",
+    "en": "Simple module to display a Github-Card"
   },
   "contributors": [
     {
@@ -21,16 +21,16 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/eClip-/youtube.git"
+    "url": "https://github.com/eClip-/github-card.git"
   },
   "keywords": {
     "de": [
-      "diktat",
-      "sprache"
+      "github",
+      "karte"
     ],
     "en": [
-      "dictate",
-      "language"
+      "github",
+      "card"
     ]
   },
   "author": "Maik Hummel <maik@eclip.io>"
