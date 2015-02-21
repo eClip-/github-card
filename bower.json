@@ -1,0 +1,20 @@
+{
+  "name": "eclip-github-card",
+  "version": "0.0.1",
+  "homepage": "https://github.com/eClip-/github-card",
+  "authors": [
+    "Maik Hummel <maik@eclip.io>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "github-card": "https://github.com/pazguille/github-card.git"
+  }
+}
